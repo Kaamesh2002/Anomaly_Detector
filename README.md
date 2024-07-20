@@ -6,7 +6,7 @@ This project implements an anomaly detection model using the Gaussian (normal) d
 ## Features
 ### Model:
 
-- '#Anomaly Detection': Utilizes the Gaussian distribution to model the data. By estimating the mean and variance of the data, the model defines what constitutes "normal" behavior.
+- `#Anomaly Detection`: Utilizes the Gaussian distribution to model the data. By estimating the mean and variance of the data, the model defines what constitutes "normal" behavior.
 - Probability Calculation: Computes the probability density function (PDF) for each data point. Points with low probability values are considered potential anomalies.
 ### Thresholding:
 
